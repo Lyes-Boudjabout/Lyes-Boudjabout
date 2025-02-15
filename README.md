@@ -21,17 +21,17 @@ I am a full stack developer with a love for creating innovative solutions and wo
 
 Here are some of the projects I've been working on:
 
-### [Project Name](https://github.com/Lyes-Boudjabout/project-name)
-A brief description of the project and its purpose.
+### [GDG DIP Program](https://github.com/hikiuzrx/ER-Managment-API)
+In this project, we developed a server-side application using NestJS and PostgreSQL in the GDG Integration Program in order to integrate in the club
 
-### [Another Project](https://github.com/Lyes-Boudjabout/another-project)
-A brief description of this project and its goals.
+### [Book Store](https://github.com/Lyes-Boudjabout/book-store-api)
+A server-side application using NestJS and MongoDB that organizes users, books and authors
 
 ## Get In Touch
 
 - [GitHub](https://github.com/Lyes-Boudjabout)
 - [LinkedIn](https://linkedin.com/in/lyes-boudjabout)
-- [Instagram](https://twitter.com/lyes_boudjabout)
+- [Instagram](https://www.instagram.com/lyes_boudjabout/)
 
 Feel free to reach out if you want to collaborate on a project or just want to chat about tech!
 
