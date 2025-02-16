@@ -22,7 +22,7 @@ I am a full stack developer with a love for creating innovative solutions and wo
 Here are some of the projects I've been working on:
 
 ### [GDG DIP Program](https://github.com/hikiuzrx/ER-Managment-API)
-In this project, we developed a server-side application using NestJS and PostgreSQL in the GDG Integration Program in order to integrate in the club
+In this project, we developed a server-side application using NestJS and PostgreSQL in the GDG Integration Program in order to integrate in GDG Algiers Club
 
 ### [Book Store](https://github.com/Lyes-Boudjabout/book-store-api)
 A server-side application using NestJS and MongoDB that organizes users, books and authors
