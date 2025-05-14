@@ -2,10 +2,10 @@
 
 ## About Me
 
-I am a full stack developer with a love for creating innovative solutions and working with cutting-edge technologies. I enjoy learning new things and sharing my knowledge with the community.
+I am a Computer Science Engineering student and a Full Stack Developer with a strong focus on scalable backend architectures using NestJS, and a keen interest in Blockchain Security. My work revolves around building secure, performant, and maintainable systems that bridge modern web technologies with decentralized ecosystems.
 
 - 🔭 I’m currently a student in the Higher National School Of Computer Science ESI Algiers (ex-INI).
-- 🌱 I’m currently learning advanced React and TypeScript.
+- 🌱 I’m currently learning advanced Next.js and Flutter.
 - 👯 I’m looking to collaborate on interesting and impactful projects.
 - 💬 Ask me about web development, JavaScript, and open-source contributions.
 - 📫 How to reach me: [nl_boudjabout@esi.dz](mailto:nl_boudjabout@esi.dz)
