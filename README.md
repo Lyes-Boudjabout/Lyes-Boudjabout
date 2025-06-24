@@ -1,6 +1,6 @@
 # 👨‍💻 Lyes Boudjabout
 
-**Full Stack Developer | Blockchain Security Enthusiast | Computer Science Engineer**
+**Full Stack Web3 Developer | Blockchain Security Enthusiast | Computer Science Engineering Student**
 
 ---
 
