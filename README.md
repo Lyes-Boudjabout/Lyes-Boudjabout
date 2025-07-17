@@ -6,7 +6,7 @@
 
 ## 🧩 About Me
 
-I am a Computer Science Engineering student at Ecole Nationale Supérieure d'Informatique ESI Alger (ex-INI). I specialize in designing and building robust, scalable systems using **NestJS**, with additional fluency in **Node.js** and **Next.js** for end-to-end web solutions. I actively explore security vulnerabilities in smart contracts and am pursuing expertise in **Solidity**, **Rust-based smart contracts**, and decentralized application architecture.
+Computer Science Engineering student at Ecole Nationale Supérieure d'Informatique ESI Alger (ex-INI), specializing in full-stack Web3 development. Proficient in building secure, scalable decentralized applications using `NestJS` (backend), `Next.js` (frontend), and `Solidity/Rust` (smart contracts). Experienced in smart contract security, dApp architecture, and `Chainlink oracle` integration. Passionate about blockchain security, protocol design, and continuous innovation within the decentralized ecosystem.
 
 ---
 
