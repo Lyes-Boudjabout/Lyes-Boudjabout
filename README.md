@@ -29,10 +29,10 @@ Computer Science Engineering student at *Ecole Nationale Supérieure d'Informati
 - **UI/UX**: TailwindCSS
 
 ### ⚙️ DevOps & Tooling
-- **Version Control**: Git, GitHub Actions
-- **Package Management**: npm, yarn
+- **Version Control**: Git, GitLab, GitHub Actions
+- **Package Management**: npm, yarn, pnpm
 - **OS Proficiency**: Ubuntu, Windows
-- **Containerization & Deployment**: Docker, PM2
+- **Containerization & Deployment**: Docker, Vercel
 
 
 ## 🤝 Let's Collaborate
