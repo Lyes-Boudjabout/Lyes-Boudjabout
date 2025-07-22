@@ -8,6 +8,9 @@
 
 Computer Science Engineering student at *Ecole Nationale Supérieure d'Informatique ESI Alger (ex-INI)*, specializing in **full-stack Web3 development**. Proficient in building secure, scalable decentralized applications using `NestJS` (backend), `Next.js` (frontend), and `Solidity/Rust` (smart contracts). Experienced in smart contract security, dApp architecture, and `Chainlink oracle` integration. Passionate about blockchain security, protocol design, and continuous innovation within the decentralized ecosystem.
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lyes-Boudjabout&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=ffffff&icon_color=79ff97" alt="Lyes-Boudjabout" /></p>
+<br clear="both" />
+
 ---
 
 ## 🛠️ Technical Skillset
@@ -33,8 +36,6 @@ Computer Science Engineering student at *Ecole Nationale Supérieure d'Informati
 - **Package Management**: npm, yarn, pnpm
 - **OS Proficiency**: Ubuntu, Windows
 - **Containerization & Deployment**: Docker, Vercel
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lyes-Boudjabout&show_icons=true&locale=en&layout=compact" alt="Lyes-Boudjabout" /></p>
 
 ## 🤝 Let's Collaborate
 
