@@ -41,6 +41,8 @@ Computer Science Engineering student at *Ecole Nationale Supérieure d'Informati
 
 ## 🤝 Let's Collaborate
 
+<p><img src="https://streak-stats.demolab.com?user=Lyes-Boudjabout&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" /></p>
+
 Feel free to connect on any blockchain security initiatives, dApp architecture discussions, or full-stack product builds. I’m open to contribution, collaboration, and continuous learning.
 
 - 🌍 GitHub: [github.com/lyes-boudjabout](https://github.com/Lyes-Boudjabout)
