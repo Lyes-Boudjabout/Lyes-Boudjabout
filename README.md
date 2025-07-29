@@ -1,6 +1,6 @@
 # 👨‍💻 Lyes Boudjabout
 
-**Full Stack Web3 Developer | Blockchain Security Enthusiast | Computer Science Engineering Student**
+**Full Stack Web3 Developer | Blockchain Security Enthusiast | Computer Science Engineering Student at @ESI-Alger | IT CO-Manager at @GDG-Algiers**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lyes-Boudjabout&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&icon_color=79ff97" alt="Lyes-Boudjabout"/></p>
 
