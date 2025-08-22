@@ -56,5 +56,5 @@ Feel free to connect on any blockchain security initiatives, dApp architecture d
 
 ---
 
-> _“Code securely. Ship confidently.”_
+> _“Exploring the intersection of blockchain, security, and full-stack innovation.”_
 
