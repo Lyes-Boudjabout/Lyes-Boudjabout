@@ -24,7 +24,7 @@ Computer Science Engineering student at *Ecole Nationale Supérieure d'Informati
 ### 🔗 Blockchain
 - **Smart Contract Development**: Solidity, Rust
 - **EVM Assembly Languages**: Yul, Huff
-- **Security Practices**: Reentrancy, Integer Overflow, Access Control, Gas Optimization
+- **Formal Verification**: Symbolic Execution, Halmos, Certora
 - **Chainlink Integration**: VRF, Functions, Data Feeds, Automation
 - **Tooling**: Hardhat, Foundry, Cast, Remix IDE
 
