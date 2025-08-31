@@ -1,8 +1,7 @@
 # 👨‍💻 Lyes Boudjabout
 
-- ⛓️ **Smart Contract Developer** <br clear="both" />
+- 🔒 **Smart Contract Security Auditor** <br clear="both" />
 - 🌐 **Full-Stack Web3 Developer** <br clear="both" />
-- 🔒 **Blockchain Security Enthusiast** <br clear="both" />
 - 🎓 **Computer Science Engineering Student at [@ESI-Alger](https://esi.dz/)** <br clear="both" />
 - 🤝 **IT CO-Manager at [@GDGAlgiers](https://github.com/GDGAlgiers)** <br clear="both" />
 
