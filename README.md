@@ -41,7 +41,7 @@ Computer Science Engineering student at *Ecole Nationale Supérieure d'Informati
 - **Version Control**: Git, Github, GitHub Actions
 - **Package Management**: npm, yarn, pnpm
 - **OS Proficiency**: Ubuntu, Windows
-- **Containerization & Deployment**: Docker, Vercel
+- **Containerization & Deployment**: Docker, Netlify
 
 ## 🤝 Let's Collaborate
 
