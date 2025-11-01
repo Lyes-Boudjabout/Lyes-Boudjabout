@@ -18,6 +18,14 @@ Computer Science Engineering student at *Ecole Nationale Supérieure d'Informati
 
 ---
 
+## 💼 Currently Working On
+
+[![Smart Contract Audits Portfolio](https://svg.bookmark.style/api?url=https://github.com/Lyes-Boudjabout/smart-contract-audits-portfolio&mode=dark&style=horizontal)](https://github.com/Lyes-Boudjabout/smart-contract-audits-portfolio)
+[![Mastering Ethereum Auction DApp](https://svg.bookmark.style/api?url=https://github.com/Lyes-Boudjabout/mastering-ethereum-auction-dapp&mode=light&style=horizontal)](https://github.com/Lyes-Boudjabout/mastering-ethereum-auction-dapp)
+[![GDG Algiers GLP Solidity Foundry](https://svg.bookmark.style/api?url=https://github.com/Lyes-Boudjabout/gdg-algiers-glp-solidity-foundry&mode=dark&style=horizontal)](https://github.com/Lyes-Boudjabout/gdg-algiers-glp-solidity-foundry)
+
+---
+
 ## 🛠️ Technical Skillset
 
 ### 🔗 Blockchain
