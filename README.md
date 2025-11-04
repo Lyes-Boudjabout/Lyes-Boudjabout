@@ -5,7 +5,7 @@
 - 🎓 **Computer Science Engineering Student at [@ESI-Alger](https://esi.dz/)** <br clear="both" />
 - 🤝 **IT Co-Manager & Dev Projects Manager at [@GDGAlgiers](https://github.com/GDGAlgiers)** <br clear="both" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lyes-Boudjabout&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&icon_color=79ff97" alt="Lyes-Boudjabout"/></p>
+<p><img align="center" src="https://github-readme-stats-8irp.vercel.app/api?username=Lyes-Boudjabout&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&icon_color=79ff97" alt="Lyes-Boudjabout"/></p>
 
 ---
 
@@ -13,7 +13,7 @@
 
 Computer Science Engineering student at *Ecole Nationale Supérieure d'Informatique ESI Alger (ex-INI)*, specializing in **full-stack Web3 development**. Proficient in building secure, scalable decentralized applications using `NestJS` (backend), `Next.js` (frontend), and `Solidity/Rust` (smart contracts). Experienced in smart contract security, dApp architecture, and `Chainlink oracle` integration. Passionate about blockchain security, protocol design, and continuous innovation within the decentralized ecosystem.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lyes-Boudjabout&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=ffffff&icon_color=79ff97" alt="Lyes-Boudjabout" /></p>
+<p><img align="left" src="https://github-readme-stats-8irp.vercel.app/api/top-langs?username=Lyes-Boudjabout&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=ffffff&icon_color=79ff97" alt="Lyes-Boudjabout" /></p>
 <br clear="both" />
 
 ---
