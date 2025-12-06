@@ -5,8 +5,6 @@
 - 🎓 **Computer Science Engineering Student at [@ESI-Alger](https://esi.dz/)** <br clear="both" />
 - 🤝 **IT Co-Manager & Dev Projects Manager at [@GDGAlgiers](https://github.com/GDGAlgiers)** <br clear="both" />
 
-<p><img align="center" src="https://github-readme-stats-8irp.vercel.app/api?username=Lyes-Boudjabout&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&icon_color=79ff97" alt="Lyes-Boudjabout"/></p>
-
 ---
 
 ## 🧩 About Me
@@ -15,13 +13,6 @@ Computer Science Engineering student at *Ecole Nationale Supérieure d'Informati
 
 <p><img align="left" src="https://github-readme-stats-8irp.vercel.app/api/top-langs?username=Lyes-Boudjabout&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=ffffff&icon_color=79ff97" alt="Lyes-Boudjabout" /></p>
 <br clear="both" />
-
----
-
-## 💼 Currently Working On
-
-[![Smart Contract Audits Portfolio](https://svg.bookmark.style/api?url=https://github.com/Lyes-Boudjabout/smart-contract-audits-portfolio&mode=dark&style=horizontal)](https://github.com/Lyes-Boudjabout/smart-contract-audits-portfolio)
-[![Mastering Ethereum Auction DApp](https://svg.bookmark.style/api?url=https://github.com/Lyes-Boudjabout/mastering-ethereum-auction-dapp&mode=light&style=horizontal)](https://github.com/Lyes-Boudjabout/mastering-ethereum-auction-dapp)
 
 ---
 
