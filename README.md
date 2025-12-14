@@ -5,6 +5,8 @@
 - 🎓 **Computer Science Engineering Student at [@ESI-Alger](https://esi.dz/)** <br clear="both" />
 - 🤝 **IT Co-Manager & Dev Projects Manager at [@GDGAlgiers](https://github.com/GDGAlgiers)** <br clear="both" />
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lyes-Boudjabout&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&icon_color=79ff97" alt="Lyes-Boudjabout"/></p>
+
 ---
 
 ## 🧩 About Me
