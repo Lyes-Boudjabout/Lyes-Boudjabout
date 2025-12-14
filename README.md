@@ -18,55 +18,8 @@ Computer Science Engineering student at *Ecole Nationale Supérieure d'Informati
 
 ## 🛠️ Technical Skillset
 
-<details>
-  <summary>Tech Stack</summary>
-
-  <br>
-
-  <!-- Frontend -->
-  <p>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  </p>
-
-  <!-- Smart Contracts / Blockchain -->
-  <p>
-    <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />
-    <img src="https://img.shields.io/badge/Hardhat-f7de1c?style=for-the-badge&logo=ethereum&logoColor=black" alt="Hardhat" />
-    <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=javascript&logoColor=white" alt="Ethers.js" />
-    <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" />
-  </p>
-
-  <!-- Backend -->
-  <p>
-    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
-  </p>
-
-  <!-- Database -->
-  <p>
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  </p>
-
-  <!-- Languages -->
-  <p>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  </p>
-
-  <!-- DevOps / Tools -->
-  <p>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  </p>
-
-</details>
-
+<p><img align="left" src="https://camo.githubusercontent.com/671859b61fca8fdc45d7703e6f81c1fb777c3a3c12fee464acefb14e711e598b/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d736f6c69646974792c6a732c74732c6e6578746a732c6e6573746a732c72656163742c7461696c77696e642c646f636b65722c6c696e75782c727573742c626173682c6769742c632c706f7374677265732c7673636f6465" alt="Lyes-Boudjabout" /></p>
+<br clear="both" />
 
 ### 🔗 Blockchain
 - **Smart Contract Development**: Solidity, Rust
