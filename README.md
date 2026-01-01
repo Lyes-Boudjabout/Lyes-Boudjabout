@@ -20,8 +20,7 @@ Computer Science Engineering student at *Ecole Nationale Supérieure d'Informati
 
 ## 🛠️ Technical Skillset
 
-<p><img align="left" src="https://camo.githubusercontent.com/671859b61fca8fdc45d7703e6f81c1fb777c3a3c12fee464acefb14e711e598b/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d736f6c69646974792c6a732c74732c6e6578746a732c6e6573746a732c72656163742c7461696c77696e642c646f636b65722c6c696e75782c727573742c626173682c6769742c632c706f7374677265732c7673636f6465" alt="Lyes-Boudjabout" /></p>
-<br clear="both" />
+[![My Skills](https://skillicons.dev/icons?i=solidity,rust,go,c,py,linux,bash,vim,git,github,githubactions,docker,md,ipfs,ts,js,nodejs,express,nestjs,fastapi,java,prisma,mongodb,mysql,react,nextjs,astro,tailwind,html,css&perline=15&theme=dark)](https://skillicons.dev)
 
 ### 🔗 Blockchain
 - **Smart Contract Development**: Solidity, Rust
