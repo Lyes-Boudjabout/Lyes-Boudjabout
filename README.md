@@ -5,7 +5,7 @@
 - 🎓 **Computer Science Engineering Student at [@ESI-Alger](https://esi.dz/)** <br clear="both" />
 - 🤝 **IT Co-Manager & Dev Projects Manager at [@GDGAlgiers](https://github.com/GDGAlgiers)** <br clear="both" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lyes-Boudjabout&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&icon_color=79ff97" alt="Lyes-Boudjabout"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=0xkryvon&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&icon_color=79ff97" alt="0xkryvon"/></p>
 
 ---
 
@@ -13,7 +13,7 @@
 
 Computer Science Engineering student at *Ecole Nationale Supérieure d'Informatique ESI Alger (ex-INI)*, specializing in **full-stack Web3 development**. Proficient in building secure, scalable decentralized applications using `NestJS` (backend), `Next.js` (frontend), and `Solidity/Rust` (smart contracts). Experienced in smart contract security, dApp architecture, and `Chainlink oracle` integration. Passionate about blockchain security, protocol design, and continuous innovation within the decentralized ecosystem.
 
-<p><img align="left" src="https://github-readme-stats-8irp.vercel.app/api/top-langs?username=Lyes-Boudjabout&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=ffffff&icon_color=79ff97" alt="Lyes-Boudjabout" /></p>
+<p><img align="left" src="https://github-readme-stats-8irp.vercel.app/api/top-langs?username=0xkryvon&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=ffffff&icon_color=79ff97" alt="0xkryvon" /></p>
 <br clear="both" />
 
 ---
@@ -49,9 +49,9 @@ Computer Science Engineering student at *Ecole Nationale Supérieure d'Informati
 
 Feel free to connect on any blockchain security initiatives, dApp architecture discussions, or full-stack product builds. I’m open to contribution, collaboration, and continuous learning.
 
-<p><img src="https://streak-stats.demolab.com?user=Lyes-Boudjabout&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" /></p>
+<p><img src="https://streak-stats.demolab.com?user=0xkryvon&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph" /></p>
 
-- 🌍 GitHub: [github.com/lyes-boudjabout](https://github.com/Lyes-Boudjabout)
+- 🌍 GitHub: [github.com/0xkryvon](https://github.com/0xkryvon)
 - 📨 Email: nl_boudjabout@esi.dz
 - 🗂 Portfolio / Resume: _Coming soon_
 
