@@ -26,5 +26,5 @@ Feel free to connect on any blockchain security initiatives, dApp architecture d
 
 ---
 
-> _“Exploring the intersection of blockchain, security, and Zero Knowledge Proofs innovation.”_
+> _“Exploring the intersection of blockchain, security, and zero knowledge proofs innovation.”_
 
