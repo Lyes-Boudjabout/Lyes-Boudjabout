@@ -1,6 +1,7 @@
 # Lyes Boudjabout
 
 - **Blockchain Security Researcher** <br clear="both" />
+- **CTF Player at [@TroJeun](https://ctftime.org/team/374058)** <br clear="both" />
 - **Computer Science Engineering Student at [@ESI-Alger](https://esi.dz/)** <br clear="both" />
 - **IT Co-Manager & Dev Projects Manager at [@GDGAlgiers](https://github.com/GDGAlgiers)** <br clear="both" />
 
